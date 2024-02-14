@@ -1,0 +1,40 @@
+.boxes {
+  /* background-color: darkturquoise; */
+  display: flex;
+  margin: 5px;
+  gap: 1em;
+  justify-content: space-between;
+}
+.squares {
+  width: 600px;
+  height: 200px;
+  background-color: darkturquoise;
+}
+
+.balls {
+  position: relative;
+}
+/* .boxes > div {
+   background-color: red; 
+  margin: 0px;
+  padding: 150px 315px;
+  border: solid white 10px;
+} */
+.boxBottom {
+  background-color: darkturquoise;
+  display: flex;
+  /* border: solid black 5px; */
+  padding: 200px;
+  margin: 5px;
+}
+.lastBox {
+  background-color: yellowgreen;
+  display: flex;
+  /* border: solid black 5px; */
+  margin: 5px;
+  padding: 50px;
+}
+.circleOne {
+  /* line-height: ; */
+  margin-left: 20px;
+}
